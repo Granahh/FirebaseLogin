@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "501196483242",
+    "firebase_url": "https://platzicurso-29540.firebaseio.com",
+    "project_id": "platzicurso-29540",
+    "storage_bucket": "platzicurso-29540.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501196483242:android:6a900f41ddec9d41",
+        "android_client_info": {
+          "package_name": "com.diegohermosomourinov.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501196483242-d777qd7jndlvav5n3m3opahb5b2kkskl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diegohermosomourinov.firebaselogin",
+            "certificate_hash": "a02c83aa50826cc6b7b4a6bc4a78b9158c653792"
+          }
+        },
+        {
+          "client_id": "501196483242-5hj31tvgmk13nk31sa71qa712m3o1tuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYmxvUwz32tnfv7-iYhVWrbRqhPBE1eDM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501196483242-5hj31tvgmk13nk31sa71qa712m3o1tuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
